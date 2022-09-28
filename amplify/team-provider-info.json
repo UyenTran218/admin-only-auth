@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-adminonlyauth-dev-232829-authRole",
+      "UnauthRoleArn": "arn:aws:iam::421455518603:role/amplify-adminonlyauth-dev-232829-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::421455518603:role/amplify-adminonlyauth-dev-232829-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-adminonlyauth-dev-232829-deployment",
+      "UnauthRoleName": "amplify-adminonlyauth-dev-232829-unauthRole",
+      "StackName": "amplify-adminonlyauth-dev-232829",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:421455518603:stack/amplify-adminonlyauth-dev-232829/a2d24820-3f35-11ed-b40a-064976d5c5ec",
+      "AmplifyAppId": "d2kw758qq8pzrv"
+    },
+    "categories": {
+      "auth": {
+        "adminonlyauth3b4acc7c": {}
+      },
+      "function": {
+        "adminAPIFunc": {
+          "deploymentBucketName": "amplify-adminonlyauth-dev-232829-deployment",
+          "s3Key": "amplify-builds/adminAPIFunc-7265557534324e70632b-build.zip"
+        }
+      }
+    }
+  }
+}

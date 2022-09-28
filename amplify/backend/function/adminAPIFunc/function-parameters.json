@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "auth": {
+      "adminonlyauth3b4acc7c": [
+        "create"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

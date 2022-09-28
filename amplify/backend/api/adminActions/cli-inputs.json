@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "paths": {
+    "/create-user": {
+      "name": "/create-user",
+      "lambdaFunction": "adminAPIFunc",
+      "permissions": {
+        "groups": {
+          "admin": [
+            "create"
+          ]
+        },
+        "setting": "private"
+      }
+    }
+  }
+}
